@@ -11,7 +11,7 @@
           </nav>
 
       
-      <h1 class="font-bold text-align text-4xl"> website still in building, comeback later  </h1>
+      <h1 class="font-bold text-center text-4xl"> website still in building, comeback later  </h1>
  
 </div>
 
