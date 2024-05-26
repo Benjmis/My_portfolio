@@ -10,9 +10,12 @@
                 <a  href="/Contact" class="Contact">Contact</a>
           </nav>
 
-      <h1 class="text-3xl font-bold text-center " > Hi I am sid </h1>
+      
+      <h1 class="font-bold text-align text-4xl"> website still in building, comeback later  </h1>
  
 </div>
+
+
 
 
 <style lang="postcss">
